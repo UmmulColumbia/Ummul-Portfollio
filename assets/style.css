@@ -173,11 +173,13 @@ Aside {
     display: flex;
     justify-content: flex-start;
     height: 90px;
-    background-color: aqua;
     margin-top: 5px;
     margin-right: 5px;
     flex: 1;
     border: 4px solid #13293d;
+    background-size: cover;
+    background-position: center;
+
 }
 
 .card3 {
@@ -192,6 +194,7 @@ Aside {
     flex: 0 4 250px;
     flex: 1;
     justify-content: center;
+    font-weight: bold;
 }
 
 
