@@ -65,8 +65,13 @@ nav a {
     display: inline-block;
     position: relative;
     text-decoration-thickness: 2px;
+}
 
-
+/* Hover effect for nav links */
+   nav a:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+    color:purple;
 }
 /* Style for the aside section */
 Aside {
