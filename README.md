@@ -11,9 +11,7 @@ I aspire to enhance my career by delving into web development. Acquiring profici
 
 ### Badges N/A
 
-
-
-###  https://github.com/UmmulColumbia/Ummul-Portfollio
+### https://ummulcolumbia.github.io/Ummul-Portfollio/
 
 ### Screenshot:
 ![Alt text](image.png)
